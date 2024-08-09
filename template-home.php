@@ -5,7 +5,7 @@ Template Name: Home
 get_header();
 ?>
  <div class="container">
-    <div class="section-one" onload="myFunction()">
+    <div class="section-one">
       <div class="col">
         <h1 class="main-heading">
            <?php the_field('main_heading'); ?>
